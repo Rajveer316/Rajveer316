@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## activity report of student induction program 2024
+## activity report of student induction program 2024 ##
 | date | Resource person | description | 
 | ----------- | ----------- |
 | 15-07-2024 | Dr. pyare lal garg | dr. garg told us important things |
