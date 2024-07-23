@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 |------------|--------------------|------------------------------------|
 | 15-07-2024 | Dr. Pyare Lal Garg | Dr. Garg told us important things  |
 
-my excel certificate : [click it](https://rajveer316.github.io/Rajveer316/Cert/Rajveer Singh.pdf)
+my excel certificate : 
+[click it](https://rajveer316.github.io/Rajveer316/Cert/Rajveer Singh.pdf)
